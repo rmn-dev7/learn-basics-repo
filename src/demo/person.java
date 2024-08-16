@@ -1,7 +1,7 @@
 package demo;
 
 public class person {
-    String id;
+    String ids;
     String name;
     String address;
     String phoneNo;
